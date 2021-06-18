@@ -9,18 +9,12 @@ Pontifica Universidad Javeriana**
 
 Elaborar un algoritmo para calcular el área de un triángulo cuya altura es de 30 cm y la base de 50 cm. Realizar una versión genérica de este algoritmo para calcular el área de un triángulo dada una altura y una base cualquiera, ¿Qué cambio se debe hacer?
 
-**Codigo 1**
+**Problema 2**
+Elaborar un algoritmo para calcular la nota final de un curso con la siguiente distribución de
+evaluaciones: 2 parciales (25 porciento cada uno), taller (20 porciento) y proyecto (30 porciento).
 
+**Problema 3**
+Elaborar un algoritmo que realice la transformación de grados Celsius a Fahrenheit.
 
-from math import *
-
-altura= 50
-
-
-base= 30
-
-
-area= (base*altura)/2
-
-
-print("la area del triangulo es: ", area)
+**Problema 4**
+Elaborar un algoritmo casa de cambio, que reciba una cantidad de dinero en pesos colombianos y realice su equivalente en dólares, yenes y euros, tenga en cuenta que el cambio deberá realizarse a la tasa representativa de cada moneda (actual) y que la casa de cambio, incluye un 2 porciento de ganancia a ese valor.
