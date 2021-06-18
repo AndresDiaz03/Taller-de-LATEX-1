@@ -1,7 +1,9 @@
 # Taller-de-LATEX-1
 **Andres Felipe Diaz 
-Codigo:8963661
-Pontifica Universidad Javeriana**
+
+**Codigo:8963661**
+
+**Pontifica Universidad Javeriana**
 
 **Fecha:18/06/2021**
 
